@@ -8,7 +8,18 @@ Hello! My name is Javeria Kamran.
 - 👯 I’m looking forward to collaborate in your "website or software projects"
 - 💬 Ask me about "web and app development or Gen AI metaverse and anything related totechnology"
 - 📫 How to reach me: javeriakamran668@gmail.com
-- ⚡ I am a passionate Web and app developer from Pakistan.
+- ⚡ I am a passionate Web and app developer from Pakistan.</br>
+
+   ## 🚀 Technologies I know
+
+- HTML, CSS, Javascript, EcmaScript
+- MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
+- Styling (Tailwindcss, Bootstrap)
+- Databases (Firebase Firestore, MongoDB)
+- Project Management (git, Github)
+- Design (Figma, Canva)
+- Deployment (Firebase, Heroku, Netlify,Railway,Cyclic)
+<br/>
 
 
 <p align="left"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" height="30px" width="30px">&nbsp; &nbsp;<a href="https://www.linkedin.com/in/javeria-kamran-471a9b2bb/" target="_blank">visit my linkedin profile</a></p>
@@ -25,5 +36,7 @@ Hello! My name is Javeria Kamran.
 
 
 
-<a href="https://github.com/javeria-kamran" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipayansarkar47&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/javeria-kamran" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipayansarkar47&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> </br>
+
+ <img align='center'  height="70" alt="Thanks" width="100%" src="https://raw.githubusercontent.com/aliaftabsheikh/aliaftabsheikh/c3862be6d86d0d9b863c38a1c4e24f76e79484b0/Thanks.svg"/>  
 
