@@ -17,7 +17,7 @@
 
  ### 🛠️ Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,python,fastapi,postgres,mongodb,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,python,fastapi,mongodb" />
 </div>  
 
 <h2> 🌐 Connect with Me </h2> 
